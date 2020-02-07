@@ -5,4 +5,4 @@ Extract the csv from dns events
 , run the code!
 
 
-Probably buggy but fast on processing big files!
+not properly coded but fast on processing big files!
